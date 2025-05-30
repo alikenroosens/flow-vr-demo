@@ -1,0 +1,14 @@
+/.vs
+/.vscode
+/Backup
+/Content
+/DerivedDataCache
+/Intermediate
+/Saved
+/Plugins/FlowVR/Content
+/Plugins/FlowVR/Intermediate
+/Plugins/Marketplace/MetaXR/Content
+/Plugins/Marketplace/MetaXR/Intermediate
+/Plugins/Marketplace/MetaXR/Shaders
+/Plugins/Marketplace/MetaXRPlatform/Content
+/Plugins/Marketplace/MetaXRPlatform/Intermediate
