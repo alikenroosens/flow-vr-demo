@@ -8,7 +8,7 @@ This project showcases the **Flow VR** plugin for Unreal Engine 5, designed to r
 
 Developed as part of a master’s thesis, it integrates **perceptual modulation techniques** inspired by both academic research and industry practices to improve user comfort while maintaining immersion.
 
-The system identifies areas of minimal optical flow ("flow regions") and applies **dynamic visual effects** such as halo reduction, peripheral distortion, and counter-motion noise to subtly reduce vection and discomfort.
+The system identifies an area of minimal optical flow ("flow region") and applies **dynamic visual effects** such as halo reduction, peripheral distortion, and countervection noise to subtly reduce discomfort.
 
 The project contains a example of implementation of Flow VR, as well as the user protocol tasks used for the hypothesis validation.
 
@@ -23,7 +23,7 @@ The project contains a example of implementation of Flow VR, as well as the user
 * **Modular Design:** All effects are optional and configurable by the user.
 * **Optimized for Standalone VR:** Designed to run on embedded platforms like Meta Quest.
 * **User Protocol Gameplay:** Two short tasks designed to test the solution in representative gameplay.
-* **3D widget**: An already implemented 3D widget used to configure the effects and manage the tasks.
+* **User Settings Widget**: An example of 3D widget to configure the effects.
 
 ---
 
