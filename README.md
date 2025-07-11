@@ -78,4 +78,4 @@ Findings suggest that Flow VR reduces **disorientation symptoms** as effectively
 
 ### License
 
-This project is provided for **academic and non-commercial use only**. Please refer to the included `LICENSE.txt` for full terms.
+This project is provided for **academic and non-commercial use only**. Please refer to the included `LICENSE.md` for full terms.
